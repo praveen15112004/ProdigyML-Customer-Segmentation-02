@@ -1,6 +1,6 @@
 # PRODIGY_ML_02
 
-***Customer Segmentation Project with K-means Clustering****
+### Customer Segmentation Project with K-means Clustering
 
 ## Overview
 This repository presents the implementation of a customer segmentation analysis using K-means clustering. The project focuses on grouping retail store customers based on their age, annual income, and spending score. By leveraging advanced data analysis techniques, the study aims to uncover distinct customer segments, enabling targeted marketing strategies and personalized customer experiences.
