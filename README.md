@@ -39,4 +39,5 @@ The analysis utilizes a dataset containing customer information, including featu
 - **Google Colab:** Cloud-based platform for running Python code and Jupyter notebooks.
 
 ## Author
-Viraj N. Bhutada
+praveen.k
+
